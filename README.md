@@ -1,5 +1,3 @@
-To create a README file for your Python web scraper code, you can provide a brief description of what the code does, how to run it, and any other relevant information. Here's a basic template you can use:
-
 ---
 
 # Python Web Scraper
